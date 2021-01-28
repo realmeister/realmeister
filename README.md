@@ -1,5 +1,7 @@
-### Hi there 👋
+## &#128313;  Pedro Lucca, May the 4th be with you 😎 
 
+ * Learning everyday. . . 🔭
+ * Tecnico em Redes de Computadores. &#127760;
 <!--
 **realmeister/realmeister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
