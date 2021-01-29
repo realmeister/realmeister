@@ -2,7 +2,14 @@
  * &#127760; Tecnico em Redes de Computadores. . . 
  * Trabalhando como estagiário na Brisanet Telecomunicações. . . 
  * 🔭 Learning everyday. . . 
- ### Redes Sociais
- [Instagram](http://instagram.com/luccapdro)
+ ### &#128313; Redes Sociais
+ [<img align="left" alt="social | 
+ Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/instagram.svg"/>]
+ [instagram]
+ 
+ 
+ [instagram]: https://www.instagram.com/luccapdro
+ 
+ 
 
 
